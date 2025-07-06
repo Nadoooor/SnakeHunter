@@ -1,4 +1,4 @@
-25238689355837198
+25243944741856326
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101388,9 +101388,30 @@ Seeed_XIAO_RP2040
 28
 14
 my
+GPS
+
+
+0
+4
+4
+my
+RFID
+
+
+0
+4
+4
+my
 SD module
 
 
 0
 6
 6
+my
+charging chip
+
+
+0
+4
+4

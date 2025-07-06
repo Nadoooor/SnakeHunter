@@ -5541,16 +5541,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 81.28) (xy 63.5 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d1c8458-7aad-48a8-b722-2207d435c0b9")
-	)
-	(wire
-		(pts
 			(xy 5.08 78.74) (xy 16.51 78.74)
 		)
 		(stroke
@@ -6547,7 +6537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my:SD module"
 			(at 96.52 102.87 0)
 			(effects
 				(font
@@ -6769,7 +6759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my:charging chip"
 			(at 156.21 121.92 0)
 			(effects
 				(font
@@ -7396,7 +7386,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my:RFID"
 			(at 109.22 76.2 0)
 			(effects
 				(font
@@ -7610,7 +7600,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP4"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 18.288 82.55 90)
 			(effects
 				(font
@@ -8147,7 +8137,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my:GPS"
 			(at 92.71 76.2 0)
 			(effects
 				(font
@@ -8221,7 +8211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP4"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 24.13 77.978 90)
 			(effects
 				(font
