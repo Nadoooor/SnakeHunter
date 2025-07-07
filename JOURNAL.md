@@ -11,4 +11,5 @@ Collected all the 3d models to add it into onshape so i can make my case. <br>
 and i finished the case and the project is all ready i guess i need only to collect the BOM and calculate it. <br>
  ### the final case:
  ![250707_06h53m21s_screenshot](https://github.com/user-attachments/assets/374c506b-21ab-40a8-a275-2e649e60c821)
-![250707_06h52m38s_screenshot](https://github.com/user-attachments/assets/034d51d3-3019-4002-aa89-53d4572a665e)
+![250707_06h52m38s_screenshot](https://github.com/user-attachments/assets/034d51d3-3019-4002-aa89-53d4572a665e) <br>
+I made the case in 6 hours and iam very happy that i made it that quick because i have learned onshape when i made my snakepad.
