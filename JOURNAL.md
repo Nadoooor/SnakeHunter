@@ -2,7 +2,8 @@
 ## 5/7/2025 july
 I searched about ESP32 and knew a lot about ESP32 mardauder and another software that i can use and found a schematic that i can use as a refrence. and made the schematic and slept on the laptop 🥲👍. and learned about nRFID and 2.2ghz signals and how they work. and learned about the IR. and i am very exited to copy my TV's remote signal and emitte it with the device again. <br>
 The schematic:
-![alt text](image.png) <br>
+![alt text](image.png) <br> <br>
+
 Time : 9 hours 
 
 ## 6/7/2025 july
