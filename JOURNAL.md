@@ -12,6 +12,7 @@ and i finished the case and the project is all ready i guess i need only to coll
  ### the final case:
  ![250707_06h53m21s_screenshot](https://github.com/user-attachments/assets/374c506b-21ab-40a8-a275-2e649e60c821)
 ![250707_06h52m38s_screenshot](https://github.com/user-attachments/assets/034d51d3-3019-4002-aa89-53d4572a665e) <br>
+the on shape doc: [onshape](https://cad.onshape.com/documents/31774ac2186697d46231e598/w/dbd08ada5937ae301b7df84d/e/903237f827f58fb8f220f074) <br>
 I made the case in 6 hours and iam very happy that i made it that quick because i have learned onshape when i made my snakepad.
 ## 12/7/2025 july
 I search for all the BOM and added it to the BOM list and calculated the total money for it. i will buy the most of the electronics from Most electronics store in my country. Now, i think it is all done and i can submit the project so happy that i have finished it.
