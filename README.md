@@ -27,3 +27,7 @@ I made this project because I love cybersecurity specialy networks and the idea 
 - **CC1101 RF Module** – Sub-GHz radio (like Flipper Zero)
   
 ### **Photos**
+<img width="735" height="867" alt="case" src="https://github.com/user-attachments/assets/213c4a4b-2f6b-4f98-8a7a-50e1aecd2dcb" />
+<img width="739" height="606" alt="schem" src="https://github.com/user-attachments/assets/aff0e6a6-4690-4f7d-8f79-8ddbd42625fa" />
+
+
