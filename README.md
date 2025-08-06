@@ -10,8 +10,12 @@ I made this project because I love cybersecurity specialy networks and the idea 
 - Infrared LED Diode (Transmitter)
 - XL6009 DC-DC Step UP Boost Converter Module (3A) 
 ### Photos
-<img width="735" height="867" alt="case" src="https://github.com/user-attachments/assets/213c4a4b-2f6b-4f98-8a7a-50e1aecd2dcb" />
-<img width="739" height="606" alt="schem" src="https://github.com/user-attachments/assets/aff0e6a6-4690-4f7d-8f79-8ddbd42625fa" /> <br>
+<img width="724" height="808" alt="Screenshot 2025-08-06 233635" src="https://github.com/user-attachments/assets/6f226b2a-e8c1-477e-b03a-a68daa214ed1" />
+
+
+
+<img width="999" height="686" alt="image" src="https://github.com/user-attachments/assets/9a3dc1f2-3150-470a-8e46-3e07c6e2806b" />
+ <br>
 
 ### BOM (Bill Of Materials)
 | Item                                                         | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Price                  |
