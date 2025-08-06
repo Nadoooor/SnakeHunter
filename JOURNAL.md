@@ -1,4 +1,5 @@
 # This is my journal where i will write my journy building this device.
+# Total spent hours on this project: 18.5 Hours
 ## 5/7/2025 july
 I searched about ESP32 and knew a lot about ESP32 mardauder and another software that i can use it called bruce and found a schematic that i can use as a refrence. and made the schematic and slept on the laptop 🥲👍. and learned about nRFID and 2.2ghz signals and how they work. and learned about the IR. and i am very exited to copy my TV's remote signal and emitte it with the device again. <br>
 ### The schematic: <br>
@@ -18,3 +19,15 @@ I made the case in 6 hours and iam very happy that i made it that quick because 
 ## 12/7/2025 july
 I search for all the BOM and added it to the BOM list and calculated the total money for it. i will buy the most of the electronics from Most electronics store in my country. Now, i think it is all done and i can submit the project so happy that i have finished it.
 ### Time: 1 hour
+
+## 6/8/2025 agust
+I edit the case to be more polished added a Skull and the hackclub flag and edited the colors to be more cool and added my name with a heart i draw it.<br>
+Images:<br>
+<img width="442" height="560" alt="image" src="https://github.com/user-attachments/assets/1900a349-b89d-40ec-aeaf-c5d7a435a74f" />
+
+<img width="724" height="808" alt="image" src="https://github.com/user-attachments/assets/87c5ab64-d605-4dd0-a1a4-b9d830252701" />
+
+<img width="839" height="600" alt="image" src="https://github.com/user-attachments/assets/262ad4f9-1a24-4551-b4c5-c63940fac1ec" />
+
+### Time: 2.5 hours.
+
