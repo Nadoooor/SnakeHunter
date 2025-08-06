@@ -1,5 +1,5 @@
 # This is my journal where i will write my journy building this device.
-# Total spent hours on this project: 18.5 Hours
+# Total spent hours on this project: 19.5 Hours
 ## 5/7/2025 july
 I searched about ESP32 and knew a lot about ESP32 mardauder and another software that i can use it called bruce and found a schematic that i can use as a refrence. and made the schematic and slept on the laptop 🥲👍. and learned about nRFID and 2.2ghz signals and how they work. and learned about the IR. and i am very exited to copy my TV's remote signal and emitte it with the device again. <br>
 ### The schematic: <br>
@@ -27,7 +27,12 @@ Images:<br>
 
 <img width="724" height="808" alt="image" src="https://github.com/user-attachments/assets/87c5ab64-d605-4dd0-a1a4-b9d830252701" />
 
-<img width="839" height="600" alt="image" src="https://github.com/user-attachments/assets/262ad4f9-1a24-4551-b4c5-c63940fac1ec" />
+<img width="839" height="600" alt="image" src="https://github.com/user-attachments/assets/262ad4f9-1a24-4551-b4c5-c63940fac1ec" /><br>
+Also i made the schematic more cleaner then before by using the global labels.<br>
 
-### Time: 2.5 hours.
+Images:<br>
+<img width="999" height="686" alt="image" src="https://github.com/user-attachments/assets/d9f4f1e5-4af1-4884-9594-eadc94bd6324" />
+
+
+### Time: 3.5 hours.
 
